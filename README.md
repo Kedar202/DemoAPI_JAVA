@@ -4,8 +4,8 @@
 Please change application.properties file with mysql credentials Java 8
 
 # Technolgy :
-Java 1.8 Springboot
-maven
+Java 1.8 Springboot,
+maven,
 MySql
 
 
